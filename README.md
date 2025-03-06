@@ -33,5 +33,5 @@ To run this project on your machine, follow these steps:
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/linear-regression-housing.git
+git clone https://github.com/gulnisunay/linear-regression-housing.git
 cd linear-regression-housing
